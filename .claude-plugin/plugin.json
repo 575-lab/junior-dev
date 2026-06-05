@@ -1,0 +1,10 @@
+{
+  "name": "junior-dev",
+  "description": "Delegate junior-level coding tasks to a local Ollama model to save Claude usage. Claude triages, writes the spec, delegates generation, verifies against an objective gate, and reports.",
+  "version": "0.1.0",
+  "author": { "name": "davidnet" },
+  "homepage": "https://github.com/davidnet/junior-dev",
+  "repository": "https://github.com/davidnet/junior-dev",
+  "license": "MIT",
+  "keywords": ["ollama", "local-llm", "cost", "delegation", "junior"]
+}

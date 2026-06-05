@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(junior-delegate.py:*)",
+      "Bash(junior-preflight.py:*)"
+    ]
+  }
+}

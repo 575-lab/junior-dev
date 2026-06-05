@@ -1,0 +1,13 @@
+{
+  "name": "junior-dev",
+  "owner": { "name": "davidnet" },
+  "description": "Delegate junior-level coding tasks to a local model to save Claude usage.",
+  "plugins": [
+    {
+      "name": "junior-dev",
+      "source": "./",
+      "description": "Delegate junior-level coding tasks to a local Ollama model. Claude triages, delegates generation, verifies, and reports.",
+      "version": "0.1.0"
+    }
+  ]
+}
