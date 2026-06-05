@@ -56,6 +56,7 @@ accept / retry ≤2 / stop & report`. The full rubric lives in
 ## Testing
 ```
 python3 -m unittest discover -s tests   # unit tests for the cleaning/resolve logic (no network)
+bash    tests/test_resolver.sh          # the SKILL.md script-path resolver (no network)
 python3 tests/smoke.py                  # live round-trip vs Ollama (SKIPs if it's down)
 ```
 
