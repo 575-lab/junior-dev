@@ -5,6 +5,6 @@
   "author": { "name": "davidnet" },
   "homepage": "https://github.com/davidnet/junior-dev",
   "repository": "https://github.com/davidnet/junior-dev",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "keywords": ["ollama", "local-llm", "cost", "delegation", "junior"]
 }

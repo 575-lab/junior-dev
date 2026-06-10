@@ -61,4 +61,4 @@ python3 tests/smoke.py                  # live round-trip vs Ollama (SKIPs if it
 ```
 
 ## License
-MIT
+Apache-2.0
